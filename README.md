@@ -13,6 +13,7 @@
     + LED3 : show the mbed board on table is initialized. (At the beginning in mode 2)
  - The flow in mode 1 and mode 2:
     + Python -> RPC function -> Thread function -> Some subfunctions
+   
 (2) how to setup and run my program 
      1. git clone my repo
      2. git clone some libraries likes mbed_rpc ...
